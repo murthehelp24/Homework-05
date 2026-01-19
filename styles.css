@@ -186,7 +186,7 @@ nav {
   color: white;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .head-box {
     display: flex;
     flex-direction: column-reverse;
